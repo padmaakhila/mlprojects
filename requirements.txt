@@ -1,3 +1,4 @@
+streamlit
 pandas 
 numpy 
 seaborn 
@@ -7,5 +8,5 @@ jupyter
 catboost
 xgboost
 dill
-
+joblib
 #-e .
