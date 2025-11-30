@@ -69,7 +69,8 @@ if st.button("Predict Score"):
         pred_df = data.get_data_as_data_frame()
         st.write("# Input Data")
         st.dataframe(pred_df)
-
+        # restart trigger
+ 
         # Prediction
         predict_pipeline = PredictPipeline()
         result = predict_pipeline.predict(pred_df)
