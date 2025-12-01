@@ -4,7 +4,6 @@ numpy==1.26.4
 seaborn==0.13.2 
 matplotlib==3.9.2
 scikit-learn==1.5.1
-jupyter
 catboost==1.2.8
 xgboost==3.1.2
 dill==0.3.8
